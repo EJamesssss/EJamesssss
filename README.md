@@ -68,9 +68,9 @@
 
 ###
 
-<h3 align="left">🔥   Badges and Certifications</h3>
-<!--START_SECTION:badges-->
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/ab1052a6-14cb-4bc5-852f-439b01d1f305/public_url )
-<!--END_SECTION:badges-->
+<h3 align="left">📜 Badges and Certifications</h3>
+
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/ab1052a6-14cb-4bc5-852f-439b01d1f305/public_url "AWS Cloud Quest: Cloud Practitioner")
+
 
 ###
